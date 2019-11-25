@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "141438925228",
+    "firebase_url": "https://hgu-shop.firebaseio.com",
+    "project_id": "hgu-shop",
+    "storage_bucket": "hgu-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141438925228:android:d11bdcfffb086270",
+        "android_client_info": {
+          "package_name": "com.hgushop.hgu_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141438925228-q6b4pjihj8k3mkhh6fe1jb7d5p1vjouo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hgushop.hgu_shop",
+            "certificate_hash": "bac193d2495b0fabbd2a1c64350f0e971a9355e5"
+          }
+        },
+        {
+          "client_id": "141438925228-gmkvfsioco2004aollrjbmim31b05i23.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hgushop.hgu_shop",
+            "certificate_hash": "d993c0698bb6e6058ac3369abcb8fe90bd25c887"
+          }
+        },
+        {
+          "client_id": "141438925228-d0k8mc30dl5tfivrm5gtvdp01pma0ffs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL_wn3Cv3xwb-_sDylXcXsrwp5nv7A-aA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141438925228-d0k8mc30dl5tfivrm5gtvdp01pma0ffs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "141438925228-tmc051qj9gerft0gh1h7dhht8c2vvs9h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hgushop.hguShop"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

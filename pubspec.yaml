@@ -1,0 +1,36 @@
+name: hgu_shop
+description: hgu_shop_app
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  http: ^0.12.0+2
+
+  flutter:
+    sdk: flutter
+
+  url_launcher: ^4.1.0
+  firebase_core: ^0.4.0+1
+  firebase_storage:
+  cloud_firestore: ^0.12.9
+  flutter_signin_button: ^0.2.5
+  firebase_auth:
+  google_sign_in:
+  google_maps_flutter: ^0.4.0
+  firebase_database:
+  image_picker: 0.6.1+4
+
+  intl: ^0.15.7
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/
